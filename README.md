@@ -3,10 +3,6 @@
 ## About Me
 Highly dedicated and project-focused professional with a solid foundation in robotics and autonomous systems. Bilingual in English and Spanish. Proficient in key programming languages including C/C++, Python, and Java. Experienced in cutting-edge technologies such as AI, ML, and ROS. Comfortable working in fast-paced dynamic environments, both in software and hardware embedded systems.
 
-## Contact Information
-- **Email:** ortegajulian94@outlook.com
-- **LinkedIn:** (https://www.linkedin.com/in/ortegajulian94/)
-- **Phone:** 346-319-9325
 
 ## Education
 - **B.S Computer Science, 2023**
